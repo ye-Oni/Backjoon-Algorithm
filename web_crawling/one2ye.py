@@ -9,3 +9,5 @@ search_box.send_keys("예워나 사랑해")
 
 search_btn = browser.find_element_by_id("search_btn")
 search_btn.click()
+
+# 크롤링 기초
