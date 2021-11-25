@@ -27,3 +27,4 @@ print(ans)
 
 # print(hex(num))	# 16진수
 
+# 정답
