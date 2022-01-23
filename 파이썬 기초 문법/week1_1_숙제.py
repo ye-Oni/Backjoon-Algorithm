@@ -1,3 +1,22 @@
+# # 숙제 1
+# a = 5 ** 8
+# print(a)
+# print(len(str(a)))
+
+# 숙제 2
+alist = [1,2,4,6]
+print(alist.pop(2))
+# alist.insert(4, 5)
+# print(alist)
+
+
+# # 숙제 3
+# alist = ['seoul', 'rome', 'paris', 'Beijing', 'Berlin', 'seoul'] 
+# print(alist.index('seoul'))
+# print(alist.count('seoul'))
+
+
+# 연습문제
 # # 1
 # a = 80
 # b = 75
@@ -31,12 +50,11 @@
 
 # #6
 # a = [1, 3, 5, 4, 2]
-# ## 1
-# a.sort(reverse=True)
+# a.sort(reverse=True)    # 내림차순 정렬
 # print(a)
-# ## 2
-# a.sort()
-# a.reverse()
+# a.sort()    # 오름차순 정렬
+# print(a)
+# a.reverse() # 제일 뒤에부터 출력
 # print(a)
 
 
