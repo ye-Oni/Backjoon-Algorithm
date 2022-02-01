@@ -1,4 +1,4 @@
-# # 숙제 1
+# # # 숙제 1
 # def big(*args):
 #     return max(args)
 
@@ -27,16 +27,6 @@
 # print(line)
 
 
-# # 숙제 4
-# class Vehicle:
-#     def __init__(self, speed, color):
-#         self.speed = speed
-#         self.color = color
-#     def __str__(self):
-#         return "자동차의 속도는 " + str(self.speed) + ", 자동차의 색깔은 " + self.color
-
-# v1 = Vehicle(120, 'red')
-# print(v1)
         
 
 # # 연습문제 2
