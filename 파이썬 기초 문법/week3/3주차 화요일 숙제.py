@@ -1,4 +1,4 @@
-# # 숙제 1
+# # # 숙제 1
 # class Vehicle:
 #     def __init__(self, speed, color):
 #         self.speed = speed
@@ -12,7 +12,7 @@
 
 
 # # P.262 연습문제
-# Q1
+# # Q1
 # class Calculator:
 #     def __init__(self):
 #         self.value = 0
@@ -27,12 +27,12 @@
 # cal.add(10)
 # cal.minus(7)
 # cal.add(3)
-# cal.minus(9)
+# cal.minus(9)                                                
 
 # print(cal.value)
 
 
-# # Q2
+#  Q2
 # class MaxLimitCalculator(Calculator):
 #     def add(self, val):
 #         self.value += val
@@ -42,7 +42,7 @@
 # cal.add(50)
 # cal.add(50)
 
-# print(cal.value)
+# print(cal.value)#
 
 
 # # Q4

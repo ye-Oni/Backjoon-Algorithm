@@ -32,17 +32,30 @@
 
 
 # 6-2
-result = 0
-for i in range(1,1000):
-    if i % 3 == 0 or i % 5 == 0:
-        result += i
-print(result)
+# result = 0
+# for i in range(1,1000):
+#     if i % 3 == 0 or i % 5 == 0:
+#         result += i
+# print(result)
 
 
-# 6-3
-def getTotalPage(a,b):
-    if a % b == 0:
-        return a // b
-    return a // b + 1
-print(getTotalPage(5, 10))
-print(getTotalPage(30,10))
+# # 6-3
+# def getTotalPage(a,b):
+#     if a % b == 0:
+#         return a // b
+#     return a // b + 1
+# print(getTotalPage(5, 10))
+# print(getTotalPage(30,10))
+
+
+
+
+
+  
+# # Q13
+# import random
+# result = []
+# for i in range(6): 
+#     num = random.randint(1,45)
+#     result.append(num)
+# print(result)
