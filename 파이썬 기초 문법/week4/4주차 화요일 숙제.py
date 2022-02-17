@@ -3,7 +3,8 @@
 # result = []
 # for i in range(6): 
 #     num = random.randint(1,45)
-#     result.append(num)
+#     if i not in result:
+#         result.append(num)
 # print(result)
 
 
@@ -64,3 +65,7 @@
 # num = int(input("구구단을 출력할 숫자를 입력하세요(2~9): "))
 # for i in range(1,10):
 #     print(num * i)
+
+
+# # 1
+# print("Hello")

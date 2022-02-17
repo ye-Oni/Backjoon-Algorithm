@@ -84,6 +84,9 @@
 # a = input().split('-')
 # for i in a:
 #     print(i,end="")
+# # join을 활용한 풀이
+# a = list(input().split('-'))
+# print(''.join(a))
 
 # # 21
 # # for문을 활용한 풀이
@@ -103,10 +106,11 @@
 # print(s[0:2],s[2:4],s[4:6])
 
 # # 23
-# list index 사용
+# # list index 사용
 # s = input().split(":")
+# print(s)
 # print(s[1])
-# 각 변수를 다 따로 지정한 방법
+# # 각 변수를 다 따로 지정한 방법
 # h, m, s = input().split(':')
 # print(m)
 
@@ -162,8 +166,11 @@
 # print(-n)
 
 # # 33
-# n = ord(input())    # 문자 a가 입력되지만 아스키 코드 값으로 인식해야 +1을 해줄 수 있다
-# print(chr(n+1))     # +1이 된 아스키 코드 값을 문자로 바꿔주는 함수로 출력해야 문자가 나올 수 있다. 아니면 숫자 나옴\
+n = input()  # 문자 a가 입력되지만 아스키 코드 값으로 인식해야 +1을 해줄 수 있다
+n = ord(n)
+print(n)
+print(n+1)
+print(chr(n+1))     # +1이 된 아스키 코드 값을 문자로 바꿔주는 함수로 출력해야 문자가 나올 수 있다. 아니면 숫자 나옴\
     
 # # 34
 # a,b = input().split()

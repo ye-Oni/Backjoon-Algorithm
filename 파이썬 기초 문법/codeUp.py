@@ -69,8 +69,9 @@
 # s = input()
 # print(s[0:2], s[2:4], s[4:6])
 
-#23
+# # 23
 # s = input().split(":")
+# print(s)
 # print(s[1])
 
 #24
