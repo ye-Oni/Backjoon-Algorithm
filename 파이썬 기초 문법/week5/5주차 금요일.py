@@ -214,12 +214,18 @@
 #         min = k[i]
 # print(min)
 
-# 95
-n = int(input())
-arr = [[0] * 19] * 19
-print(arr)
-for i in range(n):
-    x,y = map(int, input().split())
-
-
+# # 95
+# arr = [[0 for j in range(20)] for i in range(20)]   # 밑의 코드를 list comprehension으로 나타낸 것
+# n = int(input())
+# # for i in range(20):
+# #     arr.append([])
+# #     for j in range(20):
+# #         arr[i].append(0)
+# for i in range(n):
+#     x,y = map(int, input().split())
+#     arr[x][y] = 1
+# for i in range(1,20): # x,y 좌표가 1~19까지라고 했으므로!
+#     for j in range(1,20):
+#         print(arr[i][j], end=' ')
+#     print()
 
