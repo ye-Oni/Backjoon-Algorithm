@@ -14,10 +14,10 @@ def dfs(x,y):
         # 해당 노드 방문 처리
         graph[x][y] = 1
         # 상,하,좌,우의 위치들도 모두 재귀적으로 호출
-        dfs(x-1, y)
-        dfs(x, y-1)
-        dfs(x+1, y)
-        dfs(x, y+1)
+        dfs(x-1, y) # 좌
+        dfs(x, y-1) # 하
+        dfs(x+1, y) # 우
+        dfs(x, y+1) # 상
         return True
     return False
 
@@ -25,7 +25,7 @@ def dfs(x,y):
 result = 0
 for i in range(n):
     for j in range(m):
-        # 현재 위치에서 DFS 수행
+        # 현재 위치에서 DFS&BFS 수행
         if dfs(i, j) == True:
             result += 1
 
