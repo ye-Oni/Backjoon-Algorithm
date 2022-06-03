@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1275542f-8d18-4853-8e6f-f5dadc38e633" name="Changes" comment="이코테 dfs,bfs">
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/1388.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SW역량테스트/20057.py" beforeDir="false" afterPath="$PROJECT_DIR$/SW역량테스트/20057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solved/2667-DFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/solved/2667-DFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solved/dfs_이코테.py" beforeDir="false" afterPath="$PROJECT_DIR$/solved/dfs_이코테.py" afterDir="false" />
-    </list>
+    <list default="true" id="1275542f-8d18-4853-8e6f-f5dadc38e633" name="Changes" comment="백준 1388" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +192,7 @@
       <workItem from="1646902523385" duration="3771000" />
       <workItem from="1648715872946" duration="1824000" />
       <workItem from="1648720056061" duration="11820000" />
-      <workItem from="1649047161703" duration="14390000" />
+      <workItem from="1649047161703" duration="14604000" />
     </task>
     <task id="LOCAL-00001" summary="이코테 dfs,bfs">
       <created>1649047409697</created>
@@ -207,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649047409697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="백준 1388">
+      <created>1649061999348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649061999348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +227,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="이코테 dfs,bfs" />
-    <option name="LAST_COMMIT_MESSAGE" value="이코테 dfs,bfs" />
+    <MESSAGE value="백준 1388" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 1388" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
