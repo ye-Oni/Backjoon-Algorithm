@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1462f3d-2e3d-4f70-ab08-4e363e9a1714" name="Changes" comment="test">
+    <list default="true" id="c1462f3d-2e3d-4f70-ab08-4e363e9a1714" name="Changes" comment="DFS 문제 풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/DFS&amp;BFS/11123.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/DFS&amp;BFS/11123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/DFS&amp;BFS/6186.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/DFS&amp;BFS/6186.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +139,7 @@
       <workItem from="1654764891968" duration="187000" />
       <workItem from="1654765088033" duration="816000" />
       <workItem from="1655266415492" duration="2017000" />
-      <workItem from="1655337802741" duration="42752000" />
+      <workItem from="1655337802741" duration="48498000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1646900997861</created>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655270724728</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DFS 문제 풀이">
+      <created>1655945358124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655945358124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,7 +200,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="DFS 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS 문제 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,6 +235,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Backjoon_Algorithm$11123.coverage" NAME="11123 Coverage Results" MODIFIED="1655800483888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준/DFS&amp;BFS" />
+    <SUITE FILE_PATH="coverage/Backjoon_Algorithm$11123.coverage" NAME="11123 Coverage Results" MODIFIED="1656290605510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준/DFS&amp;BFS" />
   </component>
 </project>
