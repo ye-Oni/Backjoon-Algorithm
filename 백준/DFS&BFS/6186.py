@@ -12,11 +12,13 @@ def dfs(y, x):
             if graph[ny][nx] == '#':
                 dfs(ny, nx)
 
-R,C = map(int(input().split()))
-graph = [list(input().split()) for _ in range(R)]
+R,C = map(int, input().split())
+graph = [list(sys.stdin.readline().strip()) for _ in range(R)]
 count = 0
 for i in range(R):
     for j in range(C):
         if graph[i][j] == '#':
-            dfs(i,j)
+            dfs(i, j)
             count += 1
+
+print(count)
